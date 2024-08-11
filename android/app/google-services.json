@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337114307295",
+    "project_id": "plantsshopxfirebase-81397",
+    "storage_bucket": "plantsshopxfirebase-81397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337114307295:android:f74f47a33b0d784c6da76a",
+        "android_client_info": {
+          "package_name": "com.example.plant_shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8xaCQ2MgD3sv9iB2wBEXkE60CzI0qszs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
